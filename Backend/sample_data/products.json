@@ -1,0 +1,58 @@
+[
+  {
+    "category": "Chicken",
+    "subcategories": [
+      { "name": "Whole chicken cut (900 gram – 05 Pieces)" },
+      { "name": "Whole chicken cut (900 gram – 10 Pieces)" },
+      { "name": "Whole chicken cut (1300 gram – 05 Pieces)" },
+      { "name": "Whole chicken cut (1300 gram – 10 Pieces)" },
+      { "name": "Chicken Legs – 05 kg Box" },
+      { "name": "Chicken Legs – 10 kg Box" },
+      { "name": "Chicken Legs – 05 kg Box (cut)" },
+      { "name": "Chicken Legs – 10 kg Box (cut)" },
+      { "name": "Chicken wings – 3 Joint (4.5 kg tray)" },
+      { "name": "Chicken Liver (1 kg)" },
+      { "name": "Chicken Gizzard (1 kg)" },
+      { "name": "Chicken Heart (1 kg)" },
+      { "name": "Chicken Fillet (05 kg tray)" },
+      { "name": "Chicken Mince (2 Kg)" }
+    ]
+  },
+  {
+    "category": "Lamb",
+    "subcategories": [
+      { "name": "Whole Spring lamb – cut" },
+      { "name": "Half spring lamb – cut" },
+      { "name": "Lamb leg" },
+      { "name": "Lamb leg – cut" },
+      { "name": "Lamb shoulder – cut" },
+      { "name": "Lamb Mince (90/10) – (2 kg and 05 kg)" },
+      { "name": "Lamb Mince (80/20) (2 kg and 05 kg)" },
+      { "name": "Lamb Dice (2 kg and 05 kg)" },
+      { "name": "Lamb shank/ shin – cut (2 kg and 05 kg)" }
+    ]
+  },
+  {
+    "category": "Beef",
+    "subcategories": [
+      { "name": "Beef Dice (2 kg and 05 kg)" },
+      { "name": "Beef Mince (90/10) (2 kg and 05 kg)" },
+      { "name": "Beef Mince (80/20) (2 kg and 05 kg)" },
+      { "name": "Striploin (01, 2 and 05 kg)" }
+    ]
+  },
+  {
+    "category": "Seafood",
+    "subcategories": [
+      { "name": "Sea bass" },
+      { "name": "Sea bream" },
+      { "name": "Salmon" },
+      { "name": "Haddock" },
+      { "name": "Hake" },
+      { "name": "Cod" },
+      { "name": "Black Tilapia" },
+      { "name": "Red Tilapia" },
+      { "name": "Prawn" }
+    ]
+  }
+]
