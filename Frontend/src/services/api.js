@@ -1,6 +1,8 @@
 import axios from "axios";
 
-const API_URL = `http://localhost:3000/products/getSubCats`;
+const API_URL = `${
+  import.meta.env.VITE_REACT_APP_BACKEND_BASEURL
+}/products/getSubCats`;
 
 export const fetchSubcategories = async (category) => {
   console.log(category);
